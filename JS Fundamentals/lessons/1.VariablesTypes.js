@@ -22,4 +22,4 @@ var middleName = "David" //string - always in quotes
 var ageOfBirth = 25 //integer/number - no quotes needed
 var isHeMarried = false //boolen - Logical type. Only two values, True or False
 var yearsInMarriage = null //null/empty/nothing
-var numbersOfCars = undefined // usually seen in error logs. Usually means it doesnt existssssssssssssss
+var numbersOfCars = undefined // usually seen in error logs. Usually means it doesnt exist
